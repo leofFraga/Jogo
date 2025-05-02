@@ -1,6 +1,6 @@
 # Jogo
-Mini game em desenvolvimento
-Projeto faculdade, Descrição Geral:
+Mini game em desenvolvimento,
+projeto faculdade. Descrição Geral:
 Nos anos 90 a editora Marques Saraiva lançou uma série de livros-jogos chamada Aventuras Fantásticas, 
 uma tradução dos livros da série Fighting Fantasy. Atualmente alguns títulos estão sendo relançados pela 
 Editora Jambô. Basicamente os leitores criavam um personagem usando um sistema de regras bem 
