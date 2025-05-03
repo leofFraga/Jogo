@@ -1,0 +1,13 @@
+#7
+Voce segue pela direita. O caminho faz varias curvas, ate eventualmente chegar em uma sala pequena e muito destruida.
+Novamente, a luz do dia invade o espaco pelas rachaduras do teto.
+A sua frente, dois cadaveres antigos: um humano, a armadura com a insignia da Ordem dos Cavaleiros do Leste, e o outro humanoide,
+mas com dois chifres se retorcendo em volta do cranio. Um demonio...?
+Voce se aproxima do cavaleiro e examina seus pertences. A armadura de cota de malha esta bem gasta, mas ainda deve servir.
+Perto dele, um rolo de pergaminho e uma chave. Pela aparencia do rolo, voce reconheceu: um Pergaminho de Retorno, que te permite retornar ao local sagrado mais proximo.
+Ate mesmo o padre de sua pequena cidade tinha uma copia, para emergencias.
+Voce pega a chave e a examina. E pesada e antiga, com uma gravura de olho bifurcado.
+Voce veste a armadura e guarda os dois itens na bolsa.
+I: Pergaminho de Retorno;m;0;0;0
+I: Chave Antiga;c;0;0;0
+#11: Voltar para a sala grande

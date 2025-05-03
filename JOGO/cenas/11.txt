@@ -1,0 +1,6 @@
+#11
+Voce retorna para a sala grande.
+
+#1: Voltar para a entrada
+#5: Investigar a sombra
+#6: Seguir pelo corredor esquerdo

@@ -1,0 +1,8 @@
+#1
+O rei das Terras do Leste convocou todos os aventureiros do continente a participarem de um torneio, onde devem se aventurar
+em uma perigosa masmorra amaldicoada em busca de um amuleto de grande poder, guardado por uma fera adormecida.
+Aquele que o roubar e retornar com vida, sera treinado na Ordem dos Cavaleiros do Reino, e podera
+se casar com a princesa. Voce, vindo de uma pacata vila de agricultores no interior e que viveu uma vida sem arrependimentos, treinando e mantendo a cabeça erguida, decide tentar a sorte.
+
+#2: Entrar na masmorra
+#3: Voltar para casa

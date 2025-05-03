@@ -1,0 +1,6 @@
+#2
+Voce adentra a escura masmorra e sente o ar pesado.
+Passos apressados ecoam ao longe, e voce percebe que nao esta sozinho.
+
+#1: Voltar para a entrada
+#4: Prosseguir

@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1746213138 source:c:\users\leona\desktop\trabalho\src\cena.cpp
+	"Cena.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1746213551 c:\users\leona\desktop\trabalho\src\cena.h
+	<string>
+	<vector>
+	<optional>
+	"Item.h"
+	"Jogador.h"
+
+1746154564 c:\users\leona\desktop\trabalho\src\item.h
+	<string>
+
+1746213630 c:\users\leona\desktop\trabalho\src\jogador.h
+	"Inventario.h"
+
+1746213583 c:\users\leona\desktop\trabalho\src\inventario.h
+	<vector>
+	"Item.h"
+
+1746213436 source:c:\users\leona\desktop\trabalho\src\inventario.cpp
+	"Inventario.h"
+	<iostream>
+
+1746215178 source:c:\users\leona\desktop\trabalho\src\jogo.cpp
+	"Jogo.h"
+	"Batalha.h"
+	<iostream>
+	<fstream>
+	<sstream>
+
+1746154564 c:\users\leona\desktop\trabalho\src\jogo.h
+	"Jogador.h"
+	"Cena.h"
+
+1746154564 c:\users\leona\desktop\trabalho\src\batalha.h
+	"Jogador.h"
+	"Cena.h"
+
+1746154564 source:c:\users\leona\desktop\trabalho\src\main.cpp
+	"Jogo.h"
+
+1746214824 source:c:\users\leona\desktop\trabalho\src\batalha.cpp
+	"Batalha.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<limits>
+
+1746213476 source:c:\users\leona\desktop\trabalho\src\jogador.cpp
+	"Jogador.h"
+	"Item.h"
+	<iostream>
+

@@ -1,0 +1,7 @@
+#8
+Enquanto a vida do monstro se esvai, voce agora tem certeza de que esta sozinho.
+E agora, pra qual lado?
+
+#1: Voltar para a entrada
+#6: Ir para a esquerda
+#7: Ir para a direita

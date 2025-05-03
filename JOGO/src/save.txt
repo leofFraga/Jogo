@@ -1,0 +1,15 @@
+#JOGADOR
+habilidade=10
+energia=16
+sorte=10
+
+#INVENTARIO
+item=Bola de Fogo;m;1;0;5
+item=Espada Curta;w;1;1;2
+item=Tunica;r;1;0;0
+item=Provisões;p;0;0;0
+item=Pergaminho de Retorno;m;0;0;0
+item=Chave Antiga;c;0;0;0
+
+#CENA
+id=5

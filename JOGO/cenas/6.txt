@@ -1,0 +1,9 @@
+#6
+Voce segue pelo corredor esquerdo. Conforme se aproxima, um som de cachoeira, mais e mais alto.
+Ate onde esse corredor vai?
+Eventualmente, mais uma bifurcacao. A frente, o corredor parece terminar, mas voce percebe alguma coisa no chao.
+A direita, uma porta. Parece estar ali ha um bom tempo, as marcas de desgaste aparentes.
+
+#9: Seguir em frente
+#10: Tentar passar pela porta
+#4: Voltar

@@ -1,0 +1,12 @@
+#JOGADOR
+habilidade=10
+energia=20
+sorte=6
+
+#INVENTARIO
+item=Espada Curta;w;1;1;2
+item=Túnica;r;1;0;0
+item=Provisões;c;0;0;0
+
+#CENA
+id=14

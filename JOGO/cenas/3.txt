@@ -1,0 +1,8 @@
+#3
+Voce repensa suas escolhas e decide que prefere viver mais um dia. Talvez vir ate aqui foi um erro, afinal.
+Voce sobe na carruagem de onde veio e, horas depois, chega ao seu bom e velho lar...
+
+Na mesma noite, em sua confortavel cama, voce se sente inquieto. Essa realmente foi a escolha certa?
+FIM DE JOGO
+
+#1: Recomecar

@@ -1,0 +1,8 @@
+#12
+Voce reune toda sua forca e tenta arrebentar a fechadura com um golpe preciso. A madeira range, o trinco resiste...
+Mas apos alguns instantes, com um estalo seco, a fechadura se quebra, abrindo caminho para o outro lado.
+
+Ao empurrar a porta, uma brisa fria escapa de dentro. O corredor adiante esta coberto por teias de aranha, e o som distante de agua pingando ecoa pela escuridao.
+
+#14: Entrar pela porta aberta
+#6: Voltar para a bifurcacao

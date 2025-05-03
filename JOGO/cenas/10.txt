@@ -1,0 +1,6 @@
+#10
+Voce vai ate a porta e tenta abrir. Para frente, para tras, nada. Esta trancada.
+
+#13: [Usar Chave] Abrir
+#12: [Testar Sorte] Arrebentar a fechadura
+#6: Se afastar

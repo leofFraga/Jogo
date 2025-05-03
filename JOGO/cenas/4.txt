@@ -1,0 +1,12 @@
+#4
+Voce decide ir mais a fundo, mas avanca com cuidado.
+Ao passar o corredor estreito, voce chega a uma sala grande. O teto esta rachado, permitindo que os raios de sol
+invadam o ambiente...
+
+Examinando a sala, ha dois corredores: um a sua esquerda e outro a sua direita.
+No canto esquerdo, atras de um dos pilares, voce nota uma sombra estranha...
+
+#1: Voltar para a entrada
+#5: Investigar a sombra
+#6: Ir para a esquerda
+#7: Ir para a direita

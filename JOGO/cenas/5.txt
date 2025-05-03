@@ -1,0 +1,10 @@
+m
+N: Goblin
+M: N
+H: 8
+S: 8
+E: 10
+T: 50
+P: 1
+I: Adaga;w;1;2;3
+8;4
